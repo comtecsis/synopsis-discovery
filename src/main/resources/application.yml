@@ -1,6 +1,6 @@
 spring:
   application:
-    name: comtecsis-discovery
+    name: softprogy-discovery
 server:
   port: 8761
 
